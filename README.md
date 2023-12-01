@@ -1,6 +1,6 @@
-# Patika Fimple React Bootcamp Cohort Homework 3
+# Patika Fimple React Bootcamp - Cohort Homework 3
 
-This repo is dedicated to the first homework assignment for the Patika Fimple React Bootcamp.
+This repo is dedicated to the third homework assignment for the Patika Fimple React Bootcamp.
 
 ## How to Use
 
